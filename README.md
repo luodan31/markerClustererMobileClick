@@ -1,0 +1,2 @@
+# markerClustererMobileClick
+解决百度地图移动端聚合点无法点击问题
